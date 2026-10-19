@@ -1,0 +1,43 @@
+:root {
+  --color-primario: #FFBBBB;
+  --color-secundario: #FFE7CA;
+  --color-de-fondo: #D2DAC4;
+  --color-4: #8EAFB0;
+  --color-5: #3E7F88;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+#mi_boton {
+    background-color: #BCD5EF; /* Color del fondo Ej. de comentario */
+    color: #112A46; /* Color del texto */
+    font-size: 16px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+#mi_boton2 {
+    background-color: #BCD5EF;
+    color: #112A46;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+#mi_boton3 {
+    background-color: #BCD5EF;
+    color: #112A46;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+#mi_boton4 {
+    background-color: #BCD5EF;
+    color: #112A46;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
